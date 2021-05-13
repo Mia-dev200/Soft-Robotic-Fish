@@ -21,6 +21,8 @@ USING ANSYS WORKBENCH
 
 MODULE: ANSYS FLUENT WORKBENCH 2020 
 
+CFD 
+
   -- pre processor stage completed 
   
   -- Boundary conditions - completed 
